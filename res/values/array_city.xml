@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cities_array">
+        <item>Pune</item>
+        <item>Patna</item>
+        <item>Puri</item>
+        <item>Palan</item>
+        <item>Ahemdabad</item>
+        <item>Patiala</item>
+        <item>Ajmer</item>
+        <item>Varanasi</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+    </string-array>
+
+</resources>
